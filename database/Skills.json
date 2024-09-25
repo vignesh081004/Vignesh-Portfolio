@@ -1,0 +1,30 @@
+[
+  {
+    "icon": "IconJS",
+    "image": "/icon/icon-js.svg",
+    "title": "JavaScript",
+    "subtitle": "Vanilla, jQuery",
+    "description": "I bring websites to life with JavaScript, adding interactive features and optimizing performance with clean and efficient code."
+  },
+  {
+    "icon": "IconHTML",
+    "image": "/icon/icon-html.svg",
+    "title": "HTML",
+    "subtitle": "Semantic Markup",
+    "description": "Beyond markup, HTML is crucial for an inclusive web. I structure content carefully for universal accessibility."
+  },
+  {
+    "icon": "IconReact",
+    "image": "/icon/icon-react.svg",
+    "title": "React JS",
+    "subtitle": "Next.js, Vercel",
+    "description": "Using React, I craft scalable user interfaces with components, state management, and virtual DOM manipulation for seamless web applications."
+  },
+  {
+    "icon": "IconCSS",
+    "image": "/icon/icon-css.svg",
+    "title": "CSS",
+    "subtitle": "Animations, Sass",
+    "description": "I prioritize pixel perfection, paying close attention to details for visually polished and precisely aligned designs, ensuring a seamless user experience."
+  }
+]

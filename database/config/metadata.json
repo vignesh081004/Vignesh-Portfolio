@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "Vignesh",
+    "title": "Muthusamy Vignesh - Front-End Developer",
+    "description": "I develop accessible, responsive, interactive, and animated websites with a strong focus on performance.",
+    "timeZone": "America/Los_Angeles",
+    "locale": "en-US"
+  },
+  "personal": {
+    "name": "Muthusamy",
+    "surname": "Vignesh",
+    "role": "Front-End Developer",
+    "experience": 1,
+    "email": "vigneshmn529@gmail.com",
+    "phone": "+91 9361553584",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "username": "@Vignesh",
+    "resumeURL": "https://docs.google.com/document/d/16Fd02ejg1HRan8TIXLOOe5kkBeGqtQvcHOybxVoHOYA/edit?usp=sharing"
+  },
+  "social": {
+    "twitter": "https://x.com/RomeoJulietRJ1?t=MW7GQiiMuKqO0yRRVw1uyQ&s=08",
+    "instagram": "https://www.instagram.com/4_vigneshhh_8?utm_source=qr&igsh=MWt2bnFudWsxcjJwcw==",
+    "linkedin": "https://www.linkedin.com/in/muthusamy-vignesh-9a800a2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/vignesh081004"
+  },
+  "content": {
+    "verse": "Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. [2 Cor. 9:6]"
+  }
+}

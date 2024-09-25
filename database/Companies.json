@@ -1,0 +1,41 @@
+[
+  {
+    "position": "B.Sc Atrificial Intelligence & Machine Learning",
+    "company": "Rathinam College Of Arts & Science",
+    "duration": "2022 - 2025",
+    "location": "Coimbatore",
+    "image": "/company/tentwenty.svg",
+    "url": "https://www.tentwenty.me/",
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "12th",
+    "company": "Government Higher Scondary School",
+    "duration": "2019 - 2020",
+    "location": "Coimbatore",
+    "image": "/company/tentwenty.svg",
+    "url": "https://www.tentwenty.me/",
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "10th",
+    "company": "Government Higher Scondary School",
+    "duration": "2021 - 2022",
+    "location": "Coimbatore",
+    "image": "/company/denge-bilgisayar.svg",
+    "url": "httsp://denge.com.tr/",
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  }
+]
