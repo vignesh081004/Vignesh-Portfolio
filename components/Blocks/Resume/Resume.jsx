@@ -50,7 +50,7 @@ export default function Resume() {
                         <div className={`${styles.card} ${styles.cardV1}`}>
                             <div className={styles.cardInner}>
                                 <div className={styles.cardTitle}>VIGNESH</div>
-                                <div className={styles.cardDesc}>Senior Frontend Developer</div>
+                                <div className={styles.cardDesc}>Frontend Developer</div>
                                 <hr/>
                                 <p>I am Vignesh,Eager to contribute to innovative projects while pursuing professional growth and seeking opportunities to apply my knowledge, gain practical experience, 
                                     and make a meaningful impact while also being dedicated to continuous learning and thriving within a supportive team.
@@ -62,11 +62,9 @@ export default function Resume() {
                                     <span>{commonConfig.personal.city}, {commonConfig.personal.state}</span>
                                 </div>
                                 <hr/>
-                                <div className={styles.cardSectionTitle}>WORK EXPERIENCE</div>
+                                <div className={styles.cardSectionTitle}>PROJECTS</div>
                                 <p>
-                                    Frontend Developer | TenTwenty Digital Agency <br/>
-                                    UI & Frontend Developer | Denge Bilgisayar <br/>
-                                    Frontend Developer | Agency Look
+                                    Mesh Network | Personal-Portfolio <br/>
                                 </p>
                             </div>
                             <figure className={styles.figure}>
