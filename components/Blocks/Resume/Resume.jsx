@@ -64,7 +64,7 @@ export default function Resume() {
                                 <hr/>
                                 <div className={styles.cardSectionTitle}>WORK EXPERIENCE</div>
                                 <p>
-                                    Senior Frontend Developer | TenTwenty Digital Agency <br/>
+                                    Frontend Developer | TenTwenty Digital Agency <br/>
                                     UI & Frontend Developer | Denge Bilgisayar <br/>
                                     Frontend Developer | Agency Look
                                 </p>
