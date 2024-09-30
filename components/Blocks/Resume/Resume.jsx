@@ -52,9 +52,8 @@ export default function Resume() {
                                 <div className={styles.cardTitle}>VIGNESH</div>
                                 <div className={styles.cardDesc}>Senior Frontend Developer</div>
                                 <hr/>
-                                <p>I am Vignesh, a senior frontend developer with over 1 years of experience.
-                                    Successfully building user-friendly websites with ReactJS & NextJS. I pay attention to small details, enjoy technical problems, and work well in teams. I like learning new
-                                    technologies and always aim to improve my skills.
+                                <p>I am Vignesh,Eager to contribute to innovative projects while pursuing professional growth and seeking opportunities to apply my knowledge, gain practical experience, 
+                                    and make a meaningful impact while also being dedicated to continuous learning and thriving within a supportive team.
                                 </p>
                                 <div>
                                     <Link href={`mailto:${commonConfig.personal.email}`} target={'_blank'}>
